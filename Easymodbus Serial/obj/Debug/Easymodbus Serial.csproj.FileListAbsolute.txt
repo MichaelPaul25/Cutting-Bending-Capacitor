@@ -1,0 +1,127 @@
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\concrt140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\msvcp140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\vcruntime140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\concrt140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\cvextern.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\msvcp140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\vcruntime140.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.lib
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe.config
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\DirectShowLib-2005.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\EasyModbus.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.World.dll
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.xml
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.World.xml
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csprojAssemblyReference.cache
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.CameraSetting.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.CreateModel.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Form1.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.PLCSerial.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Properties.Resources.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Selected_Product.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.SettingMCU.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Settings_PLC.resources
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.GenerateResource.cache
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CoreCompileInputs.cache
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CopyComplete
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.pdb
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\concrt140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\msvcp140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\vcruntime140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\concrt140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\cvextern.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\msvcp140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x86\vcruntime140.dll
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.lib
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe.config
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.pdb
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.xml
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.World.xml
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csprojAssemblyReference.cache
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.CameraSetting.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.CreateModel.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Form1.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.PLCSerial.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Properties.Resources.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Selected_Product.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.SettingMCU.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Settings_PLC.resources
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.GenerateResource.cache
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CoreCompileInputs.cache
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CopyComplete
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.exe
+D:\Program\New folder\Easymodbus Serial - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\concrt140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\msvcp140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\vcruntime140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x86\concrt140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x86\cvextern.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x86\msvcp140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x86\vcruntime140.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\x64\cvextern.lib
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe.config
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\DirectShowLib-2005.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\EasyModbus.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.World.dll
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.xml
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\bin\Debug\Emgu.CV.World.xml
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Form1.resources
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Properties.Resources.resources
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Selected_Product.resources
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Settings_PLC.resources
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.GenerateResource.cache
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CoreCompileInputs.cache
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CopyComplete
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial - Copy - Copy\Easymodbus Serial\obj\Debug\Easymodbus Serial.csprojAssemblyReference.cache
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\concrt140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\cvextern.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\msvcp140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\vcruntime140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x86\concrt140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x86\cvextern.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x86\msvcp140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x86\vcruntime140.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\x64\cvextern.lib
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe.config
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\EasyModbus.dll
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Emgu.CV.UI.xml
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Program\Easymodbus Serial\Easymodbus Serial\bin\Debug\Emgu.CV.World.xml
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Form1.resources
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Properties.Resources.resources
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Selected_Product.resources
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus_Serial.Settings_PLC.resources
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.GenerateResource.cache
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CoreCompileInputs.cache
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.CopyComplete
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.exe
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.pdb
+D:\Program\Easymodbus Serial\Easymodbus Serial\obj\Debug\Easymodbus Serial.csproj.AssemblyReference.cache

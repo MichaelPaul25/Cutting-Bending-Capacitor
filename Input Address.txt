@@ -1,0 +1,92 @@
+
+//---------Sensor---------//
+206.00 ==> Gripper 1 unclamp
+206.01 ==> Gripper 1 clamp
+206.02 ==> Gripper 2 unclamp
+206.03 ==> Gripper 2 clamp
+206.04 ==> Rotate CCW
+206.05 ==> Rotate CW
+206.06 ==> Cutting BWD
+206.07 ==> Cutting FWD
+206.08 ==> Blow
+206.09 ==> Detect Component
+206.10 ==> Bowl Feeder
+206.11 ==> EMG memory
+206.12 ==> Reset
+206.13 ==> (NEW) Move to Cut Finish
+201.08 ==> RESET
+
+
+//----NEW Output-----//
+207.00 Grip1
+207.01 Grip2
+207.02 Rotate
+207.03 Cutting
+207.04 Blow
+207.05 Bowl Feeder
+
+
+TRIGRR BY SYSTEM
+203.00 (NEW)Status_Motor_MoveDone
+203.01 Capture  	==> READ FROM PLC
+203.02 Pick component 	==> READ FROM PLC
+203.03 Move Pick Finish ==> 
+203.04 MOVE TO CUT AFTER ROTATE FINISH
+203.05 
+203.06 RESULT POLARITY NORMAL	==> READ FROM GUI
+203.07 RESULT POLARITY NEGATIVE==> READ FROM GUI
+203.08 PLACE NORMAL/MOVE TO CUT==>READ FROM PLC
+203.09 Move to Cut Finish
+203.10 (NEW)Move To ROtate Finish 
+203.12 Capture RESULT
+203.13 MOVE TO ROTATE		==> READ FROM GUI
+203.14 MOVE TO ROTATE FINISH
+203.15 PLACE WRONG POLARITY	==> READ FROM  PLC
+
+
+210.00 Move Pick Finish
+210.01 Move Rotate Finish
+210.02 Move Cut Finish
+210.03 Move to Pick(Triggrer Timer to release)
+
+201.08 RESET
+
+PLACE NORMAL FINISH(IDLE & COORDINATE)==>READ FROM GUI
+
+
+
+//---------PROG ALEX--------//
+211 ==> HMI MANUAL
+212 ==> TEST BUSY
+213 ==> TEST OK
+200 ==> 
+
+
+
+//---------Sensor List------//
+1. lamp_gripper_fwd1,
+2. lamp_gripper_bwd1,
+3. lamp_gripper_fwd2,
+4. lamp_gripper_bwd2,
+5. lamp_rotate_ccw,
+6. lamp_rotate_cw,
+7. lamp_cutting_off,
+8. lamp_cutting_on,
+9. lampBlow,
+10.lamp_part,
+11.lampBowl
+
+
+
+
+
+
+
+
+//---------Output--------//
+206.09 Grip1
+206.10 Grip2
+206.11 Rotate
+206.12 Cutting
+206.13 Blow
+206.14 Bowl Feeder
